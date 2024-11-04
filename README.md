@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👋 Hello, I'm Dawit Teshome!
 
-### 🌍 Ethiopia | 💻 Full-Stack Developer | 🐍 Python Enthusiast | 🚀 Driven to Build
+### 💻 Full-Stack Developer | 🐍 Python Enthusiast | 🚀 Driven to Build
 
 I'm Dawit Teshome, a 17-year-old full-stack developer specializing in the **MERN stack** with a mission to excel in the global tech scene. My coding journey began in **summer 2014 (Ethiopian Calendar)** or **2022 G.C.**, when I started learning Python. Initially, I explored coding out of curiosity, and over time, this curiosity grew into a focused drive.
 
@@ -12,12 +12,8 @@ Since **April 2024**, I've been consistently dedicated to advancing my expertise
 ## 🚀 Tech Stack & Skills
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Node.js, Express.js, MySQL
-- **Python**: Web Scraping, Data Manipulation
+- **Python**: Web Scraping
 
-
-Currently, I’m exploring advanced **React concepts** and mastering my knowledge of **Node.js, Express, and MySQL** to solidify my full-stack capabilities.
-
----
 
 ## 🔥 Current Focus
 This year, I'm fully committed to building **intense, real-world projects** that push my skills and knowledge to the next level. Here’s what I’m focused on:
